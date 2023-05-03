@@ -1,7 +1,7 @@
 = OpenGL-Refpages
 
-OpenGL^R^ and OpenGL ES reference page sources, and generated HTML used
-as backing store for khronos.org .
+OpenGL® and OpenGL ES reference page sources, and generated HTML used
+as backing store for khronos.org.
 
 == Directory Structure
 
@@ -13,7 +13,7 @@ There are separate ref page sets for each of the following apis:
 * +es3.1+ - OpenGL ES 3.1
 * +es3+ - OpenGL ES 3.x (will always be the latest ES, currently 3.2)
 * +gl2.1+ - OpenGL 2.1 (including fixed functionality)
-* +gl4+ - OpenGL 4.x (will always be the latest GL, currently 4.5)
+* +gl4+ - OpenGL 4.x (will always be the latest GL, currently 4.6)
 
 == Building
 
